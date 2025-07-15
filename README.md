@@ -1,1 +1,1 @@
-# SCT_DS_02
+In this task I performed data cleaning and exploratory data analysis (EDA) on the Titanic dataset using Python. Tools & Libraries Used: Python, Pandas, NumPy, Matplotlib, Seaborn Key Steps: I handled missing values and cleaned the dataset to improve its quality. Then, I explored survival rates by analyzing gender, passenger class, and age to uncover patterns and trends within the data.
